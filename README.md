@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @mn-zaiyrbekov
-- 👀 I’m interested in JavaScript & Node js & TypeScript
-- 📫 How to reach me mn.zaiyrbekov@gmail.com
+### Hi, I’m Mambetov Mirlan 👋
+#
+## Software  Engeneer
+</br>
 
-<!---
-mn-zaiyrbekov/mn-zaiyrbekov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages | | Tools
+</br>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000?style=for-the-badge&logo=Node.js)
+![Nestjs](https://img.shields.io/badge/-Nestjs-000?style=for-the-badge&logo=nestjs)
+<!-- ### Follow me
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram)](https://www.instagram.com)
+# -->
