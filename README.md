@@ -1,5 +1,3 @@
-### Hi, I’m Mambetov Mirlan 👋
-#
 ## Software  Engeneer
 
 ### Languages | | Tools
